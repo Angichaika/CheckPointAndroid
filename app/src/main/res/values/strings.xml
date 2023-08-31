@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Checkpoint</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="write_something_in_the_edit_text">Write something in the Edit Text</string>
+    <string name="button">Button</string>
+    <string name="write_here">Write Here</string>
+    <string name="select">Select</string>
+    <string name="invia">invia</string>
+    <string name="press">press</string>
+    <string name="click_the_botton">Click the botton</string>
+    <string name="Button">Button</string>
+</resources>
